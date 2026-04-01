@@ -5,4 +5,4 @@ int main(){
     for ( int i = 1 ; i <= 10; i++){
        cout<< "19 * " << i << " = "<< i *19<< endl;
     }
-}
+} 
