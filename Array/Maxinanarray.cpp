@@ -10,4 +10,4 @@ int main (){
         }
     }
     cout<<"max number is an array " << max;
-}
+} 
